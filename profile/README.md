@@ -1,3 +1,3 @@
 # Welcome to BuildByte! 👋
 
-![BuildByte Poster]()
+![BuildByte Poster](buildbyte-poster.png)
